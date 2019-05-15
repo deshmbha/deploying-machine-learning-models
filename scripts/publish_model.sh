@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # Building packages and uploading them to a Gemfury repository
 
 GEMFURY_URL=$GEMFURY_PUSH_URL
